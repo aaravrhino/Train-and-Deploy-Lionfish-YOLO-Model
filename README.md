@@ -6,7 +6,7 @@
 
 Click below to acces a Colab notebook for training YOLO models. It makes training a custom YOLO model as easy as uploading an image dataset and running a few blocks of code.
 
-<a href="[https://colab.research.google.com/github/EdjeElectronics/Train-and-Deploy-YOLO-Models/blob/main/Train_YOLO_Models.ipynb](https://colab.research.google.com/drive/1ta7Jk7PvaOVE6mltfC6T6mlOvgwj5WT7#scrollTo=O6Y1vBiRjpcq)" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+<a href="https://colab.research.google.com/drive/1ta7Jk7PvaOVE6mltfC6T6mlOvgwj5WT7?usp=sharing" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 **Option 2. On a Local PC**
 
