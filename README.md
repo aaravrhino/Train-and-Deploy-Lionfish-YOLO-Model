@@ -1,13 +1,12 @@
-# How to Train and Deploy YOLO Models with Ultralytics (YOLO11, YOLOv8, and YOLOv5)
-Tutorials and examples showing how to train and deploy Ultralytics YOLO models.
+# How we Trained and Deployed our YOLO 11 Lionfish Model with Ultralytics
 
-## Train YOLO Models
+## Train YOLO 11 Lionfish Model
 
-**Option 1. With Google Colab**
+**Using Google Colab**
 
 Click below to acces a Colab notebook for training YOLO models. It makes training a custom YOLO model as easy as uploading an image dataset and running a few blocks of code.
 
-<a href="https://colab.research.google.com/github/EdjeElectronics/Train-and-Deploy-YOLO-Models/blob/main/Train_YOLO_Models.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+<a href="[https://colab.research.google.com/github/EdjeElectronics/Train-and-Deploy-YOLO-Models/blob/main/Train_YOLO_Models.ipynb](https://colab.research.google.com/drive/1ta7Jk7PvaOVE6mltfC6T6mlOvgwj5WT7#scrollTo=O6Y1vBiRjpcq)" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 **Option 2. On a Local PC**
 
